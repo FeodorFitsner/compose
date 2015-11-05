@@ -1,4 +1,3 @@
-os: test
 version: '{branch}-{build}'
 
 install:
